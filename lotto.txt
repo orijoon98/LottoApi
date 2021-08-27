@@ -1,0 +1,162 @@
+{
+	"925":{
+{'totSellamnt': 87901067000, 'returnValue': 'success', 'drwNoDate': '2020-08-22', 'firstWinamnt': 1771080532, 'drwtNo6': 42, 'drwtNo4': 34, 'firstPrzwnerCo': 12, 'drwtNo5': 39, 'bnusNo': 4, 'firstAccumamnt': 21252966384, 'drwNo': 925, 'drwtNo2': 24, 'drwtNo3': 32, 'drwtNo1': 13}
+	},
+	"926":{
+{'totSellamnt': 88372251000, 'returnValue': 'success', 'drwNoDate': '2020-08-29', 'firstWinamnt': 2032490663, 'drwtNo6': 31, 'drwtNo4': 20, 'firstPrzwnerCo': 10, 'drwtNo5': 25, 'bnusNo': 6, 'firstAccumamnt': 20324906630, 'drwNo': 926, 'drwtNo2': 16, 'drwtNo3': 18, 'drwtNo1': 10}
+	},
+	"927":{
+{'totSellamnt': 91067752000, 'returnValue': 'success', 'drwNoDate': '2020-09-05', 'firstWinamnt': 3714203875, 'drwtNo6': 43, 'drwtNo4': 38, 'firstPrzwnerCo': 6, 'drwtNo5': 41, 'bnusNo': 26, 'firstAccumamnt': 22285223250, 'drwNo': 927, 'drwtNo2': 15, 'drwtNo3': 22, 'drwtNo1': 4}
+	},
+	"928":{
+{'totSellamnt': 90818982000, 'returnValue': 'success', 'drwNoDate': '2020-09-12', 'firstWinamnt': 3134591358, 'drwtNo6': 44, 'drwtNo4': 20, 'firstPrzwnerCo': 7, 'drwtNo5': 28, 'bnusNo': 30, 'firstAccumamnt': 21942139506, 'drwNo': 928, 'drwtNo2': 4, 'drwtNo3': 10, 'drwtNo1': 3}
+	},
+	"929":{
+{'totSellamnt': 92344620000, 'returnValue': 'success', 'drwNoDate': '2020-09-19', 'firstWinamnt': 1308035157, 'drwtNo6': 23, 'drwtNo4': 15, 'firstPrzwnerCo': 16, 'drwtNo5': 19, 'bnusNo': 4, 'firstAccumamnt': 20928562512, 'drwNo': 929, 'drwtNo2': 9, 'drwtNo3': 12, 'drwtNo1': 7}
+	},
+	"930":{
+{'totSellamnt': 94518415000, 'returnValue': 'success', 'drwNoDate': '2020-09-26', 'firstWinamnt': 2832418829, 'drwtNo6': 44, 'drwtNo4': 38, 'firstPrzwnerCo': 8, 'drwtNo5': 39, 'bnusNo': 28, 'firstAccumamnt': 22659350632, 'drwNo': 930, 'drwtNo2': 21, 'drwtNo3': 25, 'drwtNo1': 8}
+	},
+	"931":{
+{'totSellamnt': 95695802000, 'returnValue': 'success', 'drwNoDate': '2020-10-03', 'firstWinamnt': 2957108063, 'drwtNo6': 43, 'drwtNo4': 25, 'firstPrzwnerCo': 8, 'drwtNo5': 35, 'bnusNo': 32, 'firstAccumamnt': 23656864504, 'drwNo': 931, 'drwtNo2': 15, 'drwtNo3': 23, 'drwtNo1': 14}
+	},
+	"932":{
+{'totSellamnt': 96049289000, 'returnValue': 'success', 'drwNoDate': '2020-10-10', 'firstWinamnt': 3390022983, 'drwtNo6': 38, 'drwtNo4': 36, 'firstPrzwnerCo': 7, 'drwtNo5': 37, 'bnusNo': 5, 'firstAccumamnt': 23730160881, 'drwNo': 932, 'drwtNo2': 6, 'drwtNo3': 15, 'drwtNo1': 1}
+	},
+	"933":{
+{'totSellamnt': 93484851000, 'returnValue': 'success', 'drwNoDate': '2020-10-17', 'firstWinamnt': 2927797079, 'drwtNo6': 45, 'drwtNo4': 31, 'firstPrzwnerCo': 8, 'drwtNo5': 36, 'bnusNo': 37, 'firstAccumamnt': 23422376632, 'drwNo': 933, 'drwtNo2': 27, 'drwtNo3': 29, 'drwtNo1': 23}
+	},
+	"934":{
+{'totSellamnt': 93028347000, 'returnValue': 'success', 'drwNoDate': '2020-10-24', 'firstWinamnt': 5765772844, 'drwtNo6': 39, 'drwtNo4': 33, 'firstPrzwnerCo': 4, 'drwtNo5': 36, 'bnusNo': 12, 'firstAccumamnt': 23063091376, 'drwNo': 934, 'drwtNo2': 3, 'drwtNo3': 30, 'drwtNo1': 1}
+	},
+	"935":{
+{'totSellamnt': 93934898000, 'returnValue': 'success', 'drwNoDate': '2020-10-31', 'firstWinamnt': 1711055424, 'drwtNo6': 44, 'drwtNo4': 32, 'firstPrzwnerCo': 13, 'drwtNo5': 38, 'bnusNo': 18, 'firstAccumamnt': 22243720512, 'drwNo': 935, 'drwtNo2': 10, 'drwtNo3': 20, 'drwtNo1': 4}
+	},
+	"936":{
+{'totSellamnt': 92246146000, 'returnValue': 'success', 'drwNoDate': '2020-11-07', 'firstWinamnt': 1492069179, 'drwtNo6': 29, 'drwtNo4': 17, 'firstPrzwnerCo': 14, 'drwtNo5': 18, 'bnusNo': 43, 'firstAccumamnt': 20888968506, 'drwNo': 936, 'drwtNo2': 11, 'drwtNo3': 13, 'drwtNo1': 7}
+	},
+	"937":{
+{'totSellamnt': 93720454000, 'returnValue': 'success', 'drwNoDate': '2020-11-14', 'firstWinamnt': 2058420819, 'drwtNo6': 40, 'drwtNo4': 22, 'firstPrzwnerCo': 11, 'drwtNo5': 29, 'bnusNo': 26, 'firstAccumamnt': 22642629009, 'drwNo': 937, 'drwtNo2': 10, 'drwtNo3': 13, 'drwtNo1': 2}
+	},
+	"938":{
+{'totSellamnt': 93452425000, 'returnValue': 'success', 'drwNoDate': '2020-11-21', 'firstWinamnt': 2249466563, 'drwtNo6': 36, 'drwtNo4': 16, 'firstPrzwnerCo': 10, 'drwtNo5': 31, 'bnusNo': 9, 'firstAccumamnt': 22494665630, 'drwNo': 938, 'drwtNo2': 8, 'drwtNo3': 10, 'drwtNo1': 4}
+	},
+	"939":{
+{'totSellamnt': 93340002000, 'returnValue': 'success', 'drwNoDate': '2020-11-28', 'firstWinamnt': 1708363039, 'drwtNo6': 45, 'drwtNo4': 39, 'firstPrzwnerCo': 13, 'drwtNo5': 42, 'bnusNo': 6, 'firstAccumamnt': 22208719507, 'drwNo': 939, 'drwtNo2': 11, 'drwtNo3': 28, 'drwtNo1': 4}
+	},
+	"940":{
+{'totSellamnt': 93920183000, 'returnValue': 'success', 'drwNoDate': '2020-12-05', 'firstWinamnt': 2846071079, 'drwtNo6': 41, 'drwtNo4': 22, 'firstPrzwnerCo': 8, 'drwtNo5': 24, 'bnusNo': 11, 'firstAccumamnt': 22768568632, 'drwNo': 940, 'drwtNo2': 15, 'drwtNo3': 20, 'drwtNo1': 3}
+	},
+	"941":{
+{'totSellamnt': 94867600000, 'returnValue': 'success', 'drwNoDate': '2020-12-12', 'firstWinamnt': 1347297422, 'drwtNo6': 40, 'drwtNo4': 27, 'firstPrzwnerCo': 16, 'drwtNo5': 39, 'bnusNo': 35, 'firstAccumamnt': 21556758752, 'drwNo': 941, 'drwtNo2': 14, 'drwtNo3': 25, 'drwtNo1': 12}
+	},
+	"942":{
+{'totSellamnt': 92731965000, 'returnValue': 'success', 'drwNoDate': '2020-12-19', 'firstWinamnt': 3761680313, 'drwtNo6': 43, 'drwtNo4': 35, 'firstPrzwnerCo': 6, 'drwtNo5': 42, 'bnusNo': 39, 'firstAccumamnt': 22570081878, 'drwNo': 942, 'drwtNo2': 12, 'drwtNo3': 18, 'drwtNo1': 10}
+	},
+	"943":{
+{'totSellamnt': 100081432000, 'returnValue': 'success', 'drwNoDate': '2020-12-26', 'firstWinamnt': 3435045108, 'drwtNo6': 45, 'drwtNo4': 36, 'firstPrzwnerCo': 7, 'drwtNo5': 44, 'bnusNo': 39, 'firstAccumamnt': 24045315756, 'drwNo': 943, 'drwtNo2': 8, 'drwtNo3': 13, 'drwtNo1': 1}
+	},
+	"944":{
+{'totSellamnt': 107181377000, 'returnValue': 'success', 'drwNoDate': '2021-01-02', 'firstWinamnt': 1961836356, 'drwtNo6': 33, 'drwtNo4': 19, 'firstPrzwnerCo': 13, 'drwtNo5': 32, 'bnusNo': 42, 'firstAccumamnt': 25503872628, 'drwNo': 944, 'drwtNo2': 13, 'drwtNo3': 16, 'drwtNo1': 2}
+	},
+	"945":{
+{'totSellamnt': 94837109000, 'returnValue': 'success', 'drwNoDate': '2021-01-09', 'firstWinamnt': 1765554491, 'drwtNo6': 37, 'drwtNo4': 30, 'firstPrzwnerCo': 13, 'drwtNo5': 33, 'bnusNo': 26, 'firstAccumamnt': 22952208383, 'drwNo': 945, 'drwtNo2': 10, 'drwtNo3': 15, 'drwtNo1': 9}
+	},
+	"946":{
+{'totSellamnt': 99380178000, 'returnValue': 'success', 'drwNoDate': '2021-01-16', 'firstWinamnt': 2157656182, 'drwtNo6': 40, 'drwtNo4': 30, 'firstPrzwnerCo': 11, 'drwtNo5': 34, 'bnusNo': 20, 'firstAccumamnt': 23734218002, 'drwNo': 946, 'drwtNo2': 18, 'drwtNo3': 19, 'drwtNo1': 9}
+	},
+	"947":{
+{'totSellamnt': 99449916000, 'returnValue': 'success', 'drwNoDate': '2021-01-23', 'firstWinamnt': 1275855750, 'drwtNo6': 35, 'drwtNo4': 20, 'firstPrzwnerCo': 18, 'drwtNo5': 27, 'bnusNo': 26, 'firstAccumamnt': 22965403500, 'drwNo': 947, 'drwtNo2': 8, 'drwtNo3': 17, 'drwtNo1': 3}
+	},
+	"948":{
+{'totSellamnt': 100519459000, 'returnValue': 'success', 'drwNoDate': '2021-01-30', 'firstWinamnt': 2188548716, 'drwtNo6': 41, 'drwtNo4': 31, 'firstPrzwnerCo': 11, 'drwtNo5': 38, 'bnusNo': 5, 'firstAccumamnt': 24074035876, 'drwNo': 948, 'drwtNo2': 18, 'drwtNo3': 30, 'drwtNo1': 13}
+	},
+	"949":{
+{'totSellamnt': 100518909000, 'returnValue': 'success', 'drwNoDate': '2021-02-06', 'firstWinamnt': 2458569713, 'drwtNo6': 44, 'drwtNo4': 36, 'firstPrzwnerCo': 10, 'drwtNo5': 40, 'bnusNo': 30, 'firstAccumamnt': 24585697130, 'drwNo': 949, 'drwtNo2': 21, 'drwtNo3': 35, 'drwtNo1': 14}
+	},
+	"950":{
+{'totSellamnt': 108870714000, 'returnValue': 'success', 'drwNoDate': '2021-02-13', 'firstWinamnt': 3281920500, 'drwtNo6': 40, 'drwtNo4': 22, 'firstPrzwnerCo': 8, 'drwtNo5': 28, 'bnusNo': 10, 'firstAccumamnt': 26255364000, 'drwNo': 950, 'drwtNo2': 4, 'drwtNo3': 15, 'drwtNo1': 3}
+	},
+	"951":{
+{'totSellamnt': 102937006000, 'returnValue': 'success', 'drwNoDate': '2021-02-20', 'firstWinamnt': 1747552661, 'drwtNo6': 43, 'drwtNo4': 31, 'firstPrzwnerCo': 14, 'drwtNo5': 39, 'bnusNo': 38, 'firstAccumamnt': 24465737254, 'drwNo': 951, 'drwtNo2': 12, 'drwtNo3': 30, 'drwtNo1': 2}
+	},
+	"952":{
+{'totSellamnt': 102355646000, 'returnValue': 'success', 'drwNoDate': '2021-02-27', 'firstWinamnt': 2713699834, 'drwtNo6': 41, 'drwtNo4': 24, 'firstPrzwnerCo': 9, 'drwtNo5': 33, 'bnusNo': 38, 'firstAccumamnt': 24423298506, 'drwNo': 952, 'drwtNo2': 12, 'drwtNo3': 22, 'drwtNo1': 4}
+	},
+	"953":{
+{'totSellamnt': 99180891000, 'returnValue': 'success', 'drwNoDate': '2021-03-06', 'firstWinamnt': 1640636009, 'drwtNo6': 42, 'drwtNo4': 27, 'firstPrzwnerCo': 14, 'drwtNo5': 37, 'bnusNo': 34, 'firstAccumamnt': 22968904126, 'drwNo': 953, 'drwtNo2': 9, 'drwtNo3': 22, 'drwtNo1': 7}
+	},
+	"954":{
+{'totSellamnt': 101455314000, 'returnValue': 'success', 'drwNoDate': '2021-03-13', 'firstWinamnt': 2478795900, 'drwtNo6': 41, 'drwtNo4': 28, 'firstPrzwnerCo': 10, 'drwtNo5': 30, 'bnusNo': 32, 'firstAccumamnt': 24787959000, 'drwNo': 954, 'drwtNo2': 9, 'drwtNo3': 26, 'drwtNo1': 1}
+	},
+	"955":{
+{'totSellamnt': 99784736000, 'returnValue': 'success', 'drwNoDate': '2021-03-20', 'firstWinamnt': 2023170188, 'drwtNo6': 33, 'drwtNo4': 26, 'firstPrzwnerCo': 12, 'drwtNo5': 29, 'bnusNo': 8, 'firstAccumamnt': 24278042256, 'drwNo': 955, 'drwtNo2': 9, 'drwtNo3': 23, 'drwtNo1': 4}
+	},
+	"956":{
+{'totSellamnt': 97065255000, 'returnValue': 'success', 'drwNoDate': '2021-03-27', 'firstWinamnt': 2022982671, 'drwtNo6': 41, 'drwtNo4': 21, 'firstPrzwnerCo': 11, 'drwtNo5': 25, 'bnusNo': 40, 'firstAccumamnt': 22252809381, 'drwNo': 956, 'drwtNo2': 11, 'drwtNo3': 20, 'drwtNo1': 10}
+	},
+	"957":{
+{'totSellamnt': 96654698000, 'returnValue': 'success', 'drwNoDate': '2021-04-03', 'firstWinamnt': 2126634137, 'drwtNo6': 40, 'drwtNo4': 35, 'firstPrzwnerCo': 11, 'drwtNo5': 36, 'bnusNo': 1, 'firstAccumamnt': 23392975507, 'drwNo': 957, 'drwtNo2': 15, 'drwtNo3': 24, 'drwtNo1': 4}
+	},
+	"958":{
+{'totSellamnt': 98635947000, 'returnValue': 'success', 'drwNoDate': '2021-04-10', 'firstWinamnt': 1596119675, 'drwtNo6': 37, 'drwtNo4': 16, 'firstPrzwnerCo': 15, 'drwtNo5': 35, 'bnusNo': 1, 'firstAccumamnt': 23941795125, 'drwNo': 958, 'drwtNo2': 9, 'drwtNo3': 10, 'drwtNo1': 2}
+	},
+	"959":{
+{'totSellamnt': 97435835000, 'returnValue': 'success', 'drwNoDate': '2021-04-17', 'firstWinamnt': 3015312891, 'drwtNo6': 41, 'drwtNo4': 24, 'firstPrzwnerCo': 8, 'drwtNo5': 40, 'bnusNo': 35, 'firstAccumamnt': 24122503128, 'drwNo': 959, 'drwtNo2': 14, 'drwtNo3': 15, 'drwtNo1': 1}
+	},
+	"960":{
+{'totSellamnt': 98784879000, 'returnValue': 'success', 'drwNoDate': '2021-04-24', 'firstWinamnt': 2401133213, 'drwtNo6': 45, 'drwtNo4': 30, 'firstPrzwnerCo': 10, 'drwtNo5': 32, 'bnusNo': 14, 'firstAccumamnt': 24011332130, 'drwNo': 960, 'drwtNo2': 18, 'drwtNo3': 24, 'drwtNo1': 2}
+	},
+	"961":{
+{'totSellamnt': 97153309000, 'returnValue': 'success', 'drwNoDate': '2021-05-01', 'firstWinamnt': 2575231209, 'drwtNo6': 42, 'drwtNo4': 31, 'firstPrzwnerCo': 9, 'drwtNo5': 33, 'bnusNo': 43, 'firstAccumamnt': 23177080881, 'drwNo': 961, 'drwtNo2': 20, 'drwtNo3': 29, 'drwtNo1': 11}
+	},
+	"962":{
+{'totSellamnt': 95956365000, 'returnValue': 'success', 'drwNoDate': '2021-05-08', 'firstWinamnt': 1940906094, 'drwtNo6': 43, 'drwtNo4': 31, 'firstPrzwnerCo': 12, 'drwtNo5': 34, 'bnusNo': 40, 'firstAccumamnt': 23290873128, 'drwNo': 962, 'drwtNo2': 18, 'drwtNo3': 28, 'drwtNo1': 1}
+	},
+	"963":{
+{'totSellamnt': 95452215000, 'returnValue': 'success', 'drwNoDate': '2021-05-15', 'firstWinamnt': 1476478125, 'drwtNo6': 42, 'drwtNo4': 23, 'firstPrzwnerCo': 15, 'drwtNo5': 34, 'bnusNo': 35, 'firstAccumamnt': 22147171875, 'drwNo': 963, 'drwtNo2': 12, 'drwtNo3': 19, 'drwtNo1': 6}
+	},
+	"964":{
+{'totSellamnt': 95549895000, 'returnValue': 'success', 'drwNoDate': '2021-05-22', 'firstWinamnt': 2345861063, 'drwtNo6': 43, 'drwtNo4': 38, 'firstPrzwnerCo': 10, 'drwtNo5': 39, 'bnusNo': 30, 'firstAccumamnt': 23458610630, 'drwNo': 964, 'drwtNo2': 21, 'drwtNo3': 36, 'drwtNo1': 6}
+	},
+	"965":{
+{'totSellamnt': 96174650000, 'returnValue': 'success', 'drwNoDate': '2021-05-29', 'firstWinamnt': 3403348929, 'drwtNo6': 36, 'drwtNo4': 28, 'firstPrzwnerCo': 7, 'drwtNo5': 29, 'bnusNo': 34, 'firstAccumamnt': 23823442503, 'drwNo': 965, 'drwtNo2': 13, 'drwtNo3': 25, 'drwtNo1': 2}
+	},
+	"966":{
+{'totSellamnt': 95640447000, 'returnValue': 'success', 'drwNoDate': '2021-06-05', 'firstWinamnt': 2411303513, 'drwtNo6': 37, 'drwtNo4': 29, 'firstPrzwnerCo': 10, 'drwtNo5': 34, 'bnusNo': 36, 'firstAccumamnt': 24113035130, 'drwNo': 966, 'drwtNo2': 21, 'drwtNo3': 25, 'drwtNo1': 1}
+	},
+	"967":{
+{'totSellamnt': 94515565000, 'returnValue': 'success', 'drwNoDate': '2021-06-12', 'firstWinamnt': 5809776094, 'drwtNo6': 40, 'drwtNo4': 37, 'firstPrzwnerCo': 4, 'drwtNo5': 38, 'bnusNo': 9, 'firstAccumamnt': 23239104376, 'drwNo': 967, 'drwtNo2': 6, 'drwtNo3': 13, 'drwtNo1': 1}
+	},
+	"968":{
+{'totSellamnt': 95924229000, 'returnValue': 'success', 'drwNoDate': '2021-06-19', 'firstWinamnt': 1667729683, 'drwtNo6': 39, 'drwtNo4': 14, 'firstPrzwnerCo': 13, 'drwtNo5': 24, 'bnusNo': 33, 'firstAccumamnt': 21680485879, 'drwNo': 968, 'drwtNo2': 5, 'drwtNo3': 12, 'drwtNo1': 2}
+	},
+	"969":{
+{'totSellamnt': 96728751000, 'returnValue': 'success', 'drwNoDate': '2021-06-26', 'firstWinamnt': 1149427894, 'drwtNo6': 45, 'drwtNo4': 29, 'firstPrzwnerCo': 20, 'drwtNo5': 40, 'bnusNo': 7, 'firstAccumamnt': 22988557880, 'drwNo': 969, 'drwtNo2': 9, 'drwtNo3': 10, 'drwtNo1': 3}
+	},
+	"970":{
+{'totSellamnt': 93268371000, 'returnValue': 'success', 'drwNoDate': '2021-07-03', 'firstWinamnt': 1611544045, 'drwtNo6': 36, 'drwtNo4': 21, 'firstPrzwnerCo': 14, 'drwtNo5': 28, 'bnusNo': 5, 'firstAccumamnt': 22561616630, 'drwNo': 970, 'drwtNo2': 11, 'drwtNo3': 16, 'drwtNo1': 9}
+	},
+	"971":{
+{'totSellamnt': 94471924000, 'returnValue': 'success', 'drwNoDate': '2021-07-10', 'firstWinamnt': 3725880250, 'drwtNo6': 26, 'drwtNo4': 18, 'firstPrzwnerCo': 6, 'drwtNo5': 21, 'bnusNo': 7, 'firstAccumamnt': 22355281500, 'drwNo': 971, 'drwtNo2': 6, 'drwtNo3': 17, 'drwtNo1': 2}
+	},
+	"972":{
+{'totSellamnt': 93916813000, 'returnValue': 'success', 'drwNoDate': '2021-07-17', 'firstWinamnt': 1124886244, 'drwtNo6': 39, 'drwtNo4': 23, 'firstPrzwnerCo': 20, 'drwtNo5': 37, 'bnusNo': 26, 'firstAccumamnt': 22497724880, 'drwNo': 972, 'drwtNo2': 6, 'drwtNo3': 17, 'drwtNo1': 3}
+	},
+	"973":{
+{'totSellamnt': 93953872000, 'returnValue': 'success', 'drwNoDate': '2021-07-24', 'firstWinamnt': 2912742750, 'drwtNo6': 42, 'drwtNo4': 37, 'firstPrzwnerCo': 8, 'drwtNo5': 41, 'bnusNo': 24, 'firstAccumamnt': 23301942000, 'drwNo': 973, 'drwtNo2': 26, 'drwtNo3': 31, 'drwtNo1': 22}
+	},
+	"974":{
+{'totSellamnt': 94146055000, 'returnValue': 'success', 'drwNoDate': '2021-07-31', 'firstWinamnt': 1317034523, 'drwtNo6': 44, 'drwtNo4': 16, 'firstPrzwnerCo': 17, 'drwtNo5': 39, 'bnusNo': 32, 'firstAccumamnt': 22389586891, 'drwNo': 974, 'drwtNo2': 2, 'drwtNo3': 11, 'drwtNo1': 1}
+	},
+	"975":{
+{'totSellamnt': 94253719000, 'returnValue': 'success', 'drwNoDate': '2021-08-07', 'firstWinamnt': 2440410375, 'drwtNo6': 24, 'drwtNo4': 17, 'firstPrzwnerCo': 9, 'drwtNo5': 22, 'bnusNo': 5, 'firstAccumamnt': 21963693375, 'drwNo': 975, 'drwtNo2': 8, 'drwtNo3': 9, 'drwtNo1': 7}
+	},
+	"976":{
+{'totSellamnt': 97492178000, 'returnValue': 'success', 'drwNoDate': '2021-08-14', 'firstWinamnt': 3243867215, 'drwtNo6': 37, 'drwtNo4': 25, 'firstPrzwnerCo': 7, 'drwtNo5': 35, 'bnusNo': 2, 'firstAccumamnt': 22707070505, 'drwNo': 976, 'drwtNo2': 12, 'drwtNo3': 14, 'drwtNo1': 4}
+	},
+	"977":{
+{'totSellamnt': 95895844000, 'returnValue': 'success', 'drwNoDate': '2021-08-21', 'firstWinamnt': 1669905911, 'drwtNo6': 44, 'drwtNo4': 14, 'firstPrzwnerCo': 14, 'drwtNo5': 22, 'bnusNo': 16, 'firstAccumamnt': 23378682754, 'drwNo': 977, 'drwtNo2': 9, 'drwtNo3': 10, 'drwtNo1': 2}
+	},
+
+}
