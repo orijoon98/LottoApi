@@ -72,10 +72,12 @@ def setData(): # 토요일 오후 10시마다 호출
 
     jsonText += "\n}"
     # f = open("/Users/orijoon98/Desktop/GitHub/LottoRestApi/lotto.txt", 'w')
-    f = open("/home/pi/Lotto", 'w')
+    f = open("/home/pi/Lotto/lotto.txt", 'w')
     f.write(jsonText)
     f.close()
+    print("call") 
 
+schedule.every(5).seconds.do(setData)
 schedule.every().saturday.at("22:00").do(setData)
 
 while True:
