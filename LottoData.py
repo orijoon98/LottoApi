@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*- 
 # RPI에서 모듈 경로 지정
 # import sys
 # sys.path.append("/home/pi/Lotto/lib/python3.9/site-packages")
