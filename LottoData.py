@@ -1,3 +1,6 @@
+# RPI에서 모듈 경로 지정
+# import sys
+# sys.path.append("/home/pi/Lotto/lib/python3.9/site-packages")
 import urllib.request
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
@@ -75,9 +78,7 @@ def setData(): # 토요일 오후 10시마다 호출
     f = open("/home/pi/Lotto/lotto.txt", 'w')
     f.write(jsonText)
     f.close()
-    print("call") 
 
-schedule.every(5).seconds.do(setData)
 schedule.every().saturday.at("22:00").do(setData)
 
 while True:
