@@ -54,8 +54,10 @@ def setNew(): # 가장 최근 회차 번호 업데이트
     # 11 ~ end : 1등 1인당 당첨 금액
 
 def setData(): # 토요일 오후 10시마다 호출
-    global LottoJson
-    LottoJson = OrderedDict()
+    global LottoList
+    LottoList = OrderedDict()
+    
+    LottoList["datas"] = []
 
     new = setNew() + 1 # 가장 최근 회차 + 1, 다음에 받아올 회차
     old = new - 53  # 가장 최근 회차 - 52
@@ -67,7 +69,7 @@ def setData(): # 토요일 오후 10시마다 호출
     else:
         ssl._create_default_https_context = _create_unverified_https_context
 
-    for i in range(old, new): # 925회부터 977회까지
+    for i in range(old, new): # 최근 1년치 정보
         url = "https://www.dhlottery.co.kr/common.do?method=getLottoNumber&drwNo=" + str(i)
         result = urlopen(url).read()
         lotto = json.loads(result)
@@ -86,8 +88,9 @@ def setData(): # 토요일 오후 10시마다 호출
         firstPrzwnerCo = lotto["firstPrzwnerCo"]
         totSellamnt = lotto["totSellamnt"]
 
-        LottoJson[drwNo] = {
+        LottoList["datas"].append({
             "drwNoDate":drwNoDate,
+            "drwNo":drwNo,
             "drwtNo1":drwtNo1,
             "drwtNo2":drwtNo2,
             "drwtNo3":drwtNo3,
@@ -99,13 +102,13 @@ def setData(): # 토요일 오후 10시마다 호출
             "firstAccumamnt":firstAccumamnt,
             "firstPrzwnerCo":firstPrzwnerCo,
             "totSellamnt":totSellamnt
-        }
+        })
 
-    # with open("/Users/orijoon98/Desktop/GitHub/LottoApi/lotto.json", 'w', encoding="utf-8") as make_file:
-    #    json.dump(LottoJson, make_file, ensure_ascii=False, indent="\t")
+    with open("/Users/orijoon98/Desktop/GitHub/LottoApi/lotto.json", 'w', encoding="utf-8") as make_file:
+        json.dump(LottoList, make_file, ensure_ascii=False, indent="\t")
     
-    with open("/home/pi/Lotto/lotto.json", 'w', encoding="utf-8") as make_file:
-        json.dump(LottoJson, make_file, ensure_ascii=False, indent="\t")
+    #with open("/home/pi/Lotto/lotto.json", 'w', encoding="utf-8") as make_file:
+    #    json.dump(LottoJson, make_file, ensure_ascii=False, indent="\t")
 
 setData()
 
