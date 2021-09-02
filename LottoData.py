@@ -104,8 +104,11 @@ def setData(): # 토요일 오후 10시마다 호출
             "totSellamnt":totSellamnt
         })
 
-    with open("/Users/orijoon98/Desktop/GitHub/LottoApi/lotto.json", 'w', encoding="utf-8") as make_file:
+    with open("c:/Users/공혁준/Desktop/Github/LottoApi/lotto.json", 'w', encoding="utf-8") as make_file:
         json.dump(LottoList, make_file, ensure_ascii=False, indent="\t")
+
+    # with open("/Users/orijoon98/Desktop/GitHub/LottoApi/lotto.json", 'w', encoding="utf-8") as make_file:
+    #     json.dump(LottoList, make_file, ensure_ascii=False, indent="\t")
     
     #with open("/home/pi/Lotto/lotto.json", 'w', encoding="utf-8") as make_file:
     #    json.dump(LottoJson, make_file, ensure_ascii=False, indent="\t")
